@@ -64,7 +64,7 @@ API : 네이버 클라우드 SMS API
 #### 메인 페이지 - <a href="" >상세보기 - WIKI 이동</a>
 - 
 - 
-#### 1대1문의 및 공지사항 - <a href="" >상세보기 - WIKI 이동</a> 
+#### 1대1문의 및 공지사항 - <a href="https://github.com/dnjsckdtlr/winwin/wiki/%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C--(%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD)" >상세보기 - WIKI 이동</a> 
 -
 
 #### 관리자 페이지 

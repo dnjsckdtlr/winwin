@@ -1,4 +1,6 @@
-# SpringBoot-Project-winwin
+# 팀명 :  WinWin
+
+# 프로젝트 : SpringBoot-Project
 스프링 부트 + 멘토_멘티 중개 사이트
 
 ## 🖥️ 프로젝트 소개 멘토 : 
@@ -42,30 +44,32 @@ API : 네이버 클라우드 SMS API
 관심있는 멘토나 게시글을 스크랩하여 마이페이지에서 한 눈에 모아볼 수 있음
 
 
+## :bulb: 나의 작업
+
 
 ## 📌 주요 기능
-#### 로그인 - <a href="" >상세보기 - WIKI 이동</a>
+####  - <a href="" >상세보기 - WIKI 이동</a>
 - 
 - 
 - 
-#### 회원가입 - <a href="" >상세보기 - WIKI 이동</a>
+####  - <a href="" >상세보기 - WIKI 이동</a>
 - 
 - 
-#### 마이 페이지 - <a href="" >상세보기 - WIKI 이동</a>
+####  - <a href="" >상세보기 - WIKI 이동</a>
 - 
 - 
 
-#### 영화 예매 - <a href="" >상세보기 - WIKI 이동</a>
+####  - <a href="" >상세보기 - WIKI 이동</a>
 - 
 - 
 - 
 - 
 - 
-#### 메인 페이지 - <a href="" >상세보기 - WIKI 이동</a>
+####  - <a href="" >상세보기 - WIKI 이동</a>
 - 
 - 
-#### 1대1문의 및 공지사항 - <a href="https://github.com/dnjsckdtlr/winwin/wiki/%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C--(%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD)" >상세보기 - WIKI 이동</a> 
+####  - <a href="https://github.com/dnjsckdtlr/winwin/wiki/%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C--(%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD)" >상세보기 - WIKI 이동</a> 
 -
 
-#### 관리자 페이지 
+#### 
 

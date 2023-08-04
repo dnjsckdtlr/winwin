@@ -72,16 +72,10 @@ API : 네이버 클라우드 SMS API
 
 
 ## :bulb: 나의 작업
-<h1>WinWin게시판 글 작성 및 수정 삭제</h1>
-- <a href="" >상세보기 - WIKI 이동</a>
+### WinWin 게시판 글 작성 및 수정 삭제 <a href=""> 기능소개 WIKI로 이동</a>
 - 
 - 
 - 
-  - <a href="" >상세보기 - WIKI 이동</a>
-- 
-- 
- - <a href="" >상세보기 - WIKI 이동</a>
-
 
 ## 📌 주요 기능
 ####  - <a href="" >상세보기 - WIKI 이동</a>

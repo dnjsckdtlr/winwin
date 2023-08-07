@@ -83,7 +83,7 @@ API : 네이버 클라우드 SMS API
 - 
 - 게시판 삭제
 
-<img src="https://github.com/winwin-project/winwin/issues/112#issue-1839018901" style="width:200px"></img>
+<src="https://github.com/winwin-project/winwin/issues/112#issue-1839018901" style="width:200px"></src>
 
 
 ## 📌 주요 기능

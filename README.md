@@ -77,13 +77,13 @@ API : 네이버 클라우드 SMS API
 
 ## :bulb: 나의 작업
 ### WinWin 게시판 글 작성 및 수정 삭제 <a href="https://github.com/dnjsckdtlr/winwin/wiki/%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C--(%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD)"> 기능소개 WIKI로 이동</a>
- ### 📌 게시판 글 작성
+ ### 🐱 게시판 글 작성
 ![2023-08-07 17;55;59](https://github.com/dnjsckdtlr/winwin/assets/118125610/34fba88a-5d70-455c-9634-252d7ee28d44)
 
-### 게시판 수정
+###  🐱 게시판 수정
  ![2023-08-07 18;23;54](https://github.com/dnjsckdtlr/winwin/assets/118125610/c209addc-4a21-47b2-b54c-c7dbca2edd04)
 
-### 게시판 삭제
+###  🐱 게시판 삭제
  ![2023-08-07 18;26;17](https://github.com/dnjsckdtlr/winwin/assets/118125610/9858b6b1-47a9-4aa4-b2cd-92533c9ba63b)
 
 

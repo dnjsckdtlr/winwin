@@ -82,7 +82,7 @@ API : 네이버 클라우드 SMS API
 - 게시판 수정
 - 
 - 게시판 삭제
-- <img src="![GIFMaker_me](https://github.com/winwin-project/winwin/assets/118125610/32e30438-8526-4633-9d99-fa5e19f62651)">
+- <img src="[![GIFMaker_me](https://github.com/winwin-project/winwin/assets/118125610/32e30438-8526-4633-9d99-fa5e19f62651)](https://github.com/winwin-project/winwin/issues/110#issuecomment-1667419067)">
 
 
 ## 📌 주요 기능

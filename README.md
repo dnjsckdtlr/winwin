@@ -85,6 +85,9 @@ API : 네이버 클라우드 SMS API
 <p align="center">
 <img src="![2023-08-07 17;55;59](https://github.com/winwin-project/winwin/assets/118125610/141c0c40-e41b-45bc-a027-9cd59096df7a)">
 </p>
+<p align="center">
+<img src="![2023-08-07 17;55;59](https://github.com/winwin-project/winwin/assets/118125610/141c0c40-e41b-45bc-a027-9cd59096df7a)">
+</p>
 
 
 ## 📌 주요 기능

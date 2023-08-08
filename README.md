@@ -38,7 +38,8 @@
 
 <details>
 <summary>ERD이미지</summary>
-![그림1](https://github.com/dnjsckdtlr/winwin/assets/118125610/e3d6ac88-6e11-4ad7-9788-f6584201b00d)
+![그림1](https://github.com/dnjsckdtlr/winwin/assets/118125610/161fbd0b-4d65-45c3-82bb-8c59408c6c98)
+
 
 
 

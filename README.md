@@ -39,7 +39,8 @@
 <details>
 <summary>ERD이미지</summary>
 
-[![NPE단속반 erd구성](./src/main/resources/static/img/Spring_Erd.png)](https://dbdiagram.io/d/647f4f07722eb774947ee12c)
+![그림1](https://github.com/dnjsckdtlr/winwin/assets/118125610/1510f7b0-8138-436b-92c5-8719917bb70b)
+
 
 </details>
 

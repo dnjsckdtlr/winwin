@@ -110,7 +110,7 @@ API : 네이버 클라우드 SMS API
 - 게시판 삭제
 - 
 
-####  - <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EB%82%A0%EC%94%A8" >상세보기 - WIKI 이동</a>
+####  - <a href="" >상세보기 - WIKI 이동</a>
 - 관리자만 댓글 Status 값 1번 고정
 - 관리자만 수정 
 - 관리자만 삭제 

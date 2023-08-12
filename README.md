@@ -109,7 +109,7 @@ API : 네이버 클라우드 SMS API
 ####  - <a href="https://github.com/dnjsckdtlr/winwin/wiki/WinWin--%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B8%80-%EC%82%AD%EC%A0%9C" >상세보기 - WIKI 이동</a>
 - 게시판 삭제
 - 
-####  - <a href="https://github.com/dnjsckdtlr/winwin/wiki/WinWin--%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%B2%98%EB%A6%AC" >상세보기 - WIKI 이동</a>
+####  - <a href="https://github.com/dnjsckdtlr/winwin/wiki/WinWin--%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0" >상세보기 - WIKI 이동</a>
 - 관리자만 댓글 Status 값 1번 고정
 - 관리자만 수정 
 - 관리자만 삭제 

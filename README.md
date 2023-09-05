@@ -11,6 +11,8 @@
 4. 관심있는 멘토나 게시글 스크랩하여 마이페이지에 한 눈에 모아볼 수 있음
 
 
+
+
 ## 목차
 - 팀구성
 - ERD 구성
@@ -55,6 +57,8 @@
 
 
 ### ⚙️ 개발 환경
+
+<br>
 개발환경 : 스프링 부트 5
 개발도구 : git, intelliJ, vsCode, Dbeaver
 개발언어 및 프레임워크 : java, ajax, html, css, javaScript, myBatis, spring boot, thymeleaf
@@ -112,9 +116,8 @@ API : 네이버 클라우드 SMS API
 ####  - <a href="https://github.com/dnjsckdtlr/winwin/wiki/WinWin--%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD-%EA%B2%8C%EC%8B%9C%ED%8C%90-%EA%B4%80%EB%A6%AC%EC%9E%90-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0" >상세보기 - WIKI 이동</a>
 - 관리자만 댓글 Status 값 1번 고정
 - 관리자만 수정 
-- 관리자만 삭제 
-
-
+- 관리자만 삭제
+- 
 
 
 
